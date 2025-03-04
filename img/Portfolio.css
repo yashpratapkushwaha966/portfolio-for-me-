@@ -1,0 +1,203 @@
+#neavbar {
+  height: 100px;
+  width: 1550px;
+  background-color: rgb(27, 20, 20);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+#Y {
+  height: 25;
+  width: 10;
+  font-size: 40px;
+  color: rgb(247, 18, 18);
+  position: relative;
+  top: -15px;
+  left: 50px;
+}
+
+#H {
+  height: 25;
+  width: 10;
+  font-size: 40px;
+  color: rgb(24, 231, 59);
+  position: absolute;
+  top: -15px;
+  left: 90px;
+}
+
+#A {
+  height: 20;
+  width: 10;
+  font-size: 18px;
+
+  text-decoration: underline;
+  margin-top: 10px;
+  margin-left: 5px;
+  color: rgb(199, 68, 68);
+  position: absolute;
+  top: 10px;
+  left: 400px;
+}
+
+#A:hover {
+  cursor: pointer;
+  color: aqua;
+}
+
+#B {
+  height: 20;
+  width: 10;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-left: 5px;
+  color: rgb(241, 247, 247);
+  position: absolute;
+  top: 10px;
+  left: 550px;
+}
+
+#B:hover {
+  cursor: pointer;
+  color: rgb(255, 115, 0);
+}
+
+#C {
+  height: 20;
+  width: 10;
+  font-size: 18px;
+  margin-top: 10px;
+  cursor: pointer;
+  margin-left: 50px;
+  color: rgb(241, 247, 247);
+  position: absolute;
+  top: 10px;
+  left: 650px;
+}
+
+#C:hover {
+  cursor: pointer;
+  color: rgb(255, 115, 0);
+}
+
+#D {
+  height: 20;
+  width: 10;
+  font-size: 18px;
+  margin-top: 10px;
+  cursor: pointer;
+  margin-left: 45px;
+  color: rgb(241, 247, 247);
+  position: absolute;
+  top: 10px;
+  left: 850px;
+}
+
+#D:hover {
+  cursor: pointer;
+  color: rgb(255, 115, 0);
+}
+
+#E {
+  height: 20;
+  width: 10;
+  font-size: 18px;
+  margin-top: 10px;
+  cursor: pointer;
+  margin-left: 20px;
+  color: rgb(241, 247, 247);
+  position: absolute;
+  top: 10px;
+  left: 1200px;
+}
+
+#E:hover {
+  cursor: pointer;
+  color: rgb(255, 115, 0);
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 60px;
+  height: 80px;
+  width: 70px;
+  color: rgb(133, 45, 14);
+  position: relative;
+  top: 250px;
+  left: 250px;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 30px;
+  height: 90px;
+  width: 400px;
+  color: rgb(5, 83, 51);
+  margin-top: 50px;
+  position: relative;
+  top: 250px;
+  left: 250px;
+}
+
+#L {
+  font-weight: 900px;
+  font-size: 25px;
+  height: 200px;
+  width: 700px;
+  color: black;
+  margin-top: 40px;
+  position: relative;
+  top: 300px;
+  left: 250px;
+}
+
+#B1 {
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 25px;
+  margin-left: 60px;
+  background-color: black;
+  color: white;
+  position: relative;
+  top: 300px;
+  left: 250px;
+}
+#B1:hover {
+  cursor: pointer;
+  color: rgb(255, 0, 0);
+}
+
+#B2 {
+  font-weight: 400;
+  font-size: 25px;
+  margin-left: 80px;
+  border: 3px solid black;
+  background-color: rgb(245, 204, 23);
+  color: rgb(27, 25, 25);
+  position: relative;
+  top: 300px;
+  left: 250px;
+}
+#B2:hover {
+  cursor: pointer;
+  color: rgb(252, 4, 4);
+}
+
+body {
+  background-image: url(img/pexels-jplenio-1103970.jpg);
+  background-size: cover;
+}
+
+#Box {
+  background-image: url(img/220856209.jpg);
+  background-size: cover;
+  height: 400px;
+  width: 400px;
+  border: 3px solid green;
+  border-radius: 40%;
+  position: relative;
+  top: -400px;
+  left: 700px;
+}
